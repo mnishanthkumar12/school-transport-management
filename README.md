@@ -1,3 +1,4 @@
+
 # School Transport Management System
 
 A full-featured MERN stack web application to manage school bus transportation with real-time tracking, QR-based check-in, role-based dashboards, notifications, and more.
